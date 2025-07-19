@@ -1,1 +1,1 @@
-# APDR-a-hybrid-disease-prediction-website
+# APDR-Hybrid-Framework-for-Disease-Prediction
